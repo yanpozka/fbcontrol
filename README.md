@@ -1,13 +1,15 @@
 Facebook Friends Control
 ========================
 
-Tool to control(with selenium java) of how many friends has one of your 'friends' on facebook.com and 
-it send a report by email (gmail), thanks to JavaMail. You need to get a Gmail account.
+Tool to control (with selenium java http://www.seleniumhq.org) of how many friends has one of your 'friends' on facebook.com and it send a report by email (gmail), thanks to JavaMail http://www.oracle.com/technetwork/java/javamail/index.html
+https://javamail.java.net/nonav/docs/api/
+
+You need have a Gmail account.
 
 
 How to use:
 ==========
-You probably want compile first and get a file like 'ffselenium.jar'
+First you may want to compile and generate a file like 'ffselenium.jar' (for example)
 
 You can add this comand to your crontab or your prefer task schedule:
 
